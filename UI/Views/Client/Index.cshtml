@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Applicationcore.Entities.Client>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h5>Listagem</h5>
+
+<p>
+    <a asp-action="Create">Inserir</a>
+</p>
+
+<br />
+<br />
+
+
+<div class="container-fluid">
+    @foreach (var item in Model)
+    {
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <div class="card-header">
+                        @Html.DisplayFor(modelItem => item.name)
+                    </div>
+                    <div class="card-body">
+                        <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Detalhe</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

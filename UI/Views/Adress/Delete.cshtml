@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Deletar - Registro</h1>
+<a asp-action="Index">Painel</a>
+
+<div>
+    <hr />
+    <table>
+    @foreach (var item in ViewBag.listagem)
+    {
+        <tr>
+            <td>
+                @item.name
+            </td>
+            <td>
+                @item.street
+            </td>
+            <td>
+                @item.number
+            </td>
+            <td>
+                @item.complement
+            </td>
+            <td>
+                @item.neightborhood
+            </td>
+            <td>
+                @item.city
+            </td>
+            <td>
+                @item.state
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </table>
+
+    @*<form asp-action="Delete">
+            <input type="hidden" id="@item.Id" value=""/>
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+        </form>*@
+</div>

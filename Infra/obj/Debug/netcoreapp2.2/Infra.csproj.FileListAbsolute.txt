@@ -1,0 +1,14 @@
+C:\Desenvolvimento\MGN\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Desenvolvimento\MGN\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Desenvolvimento\MGN\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Desenvolvimento\MGN\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Desenvolvimento\MGN\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Desenvolvimento\MGN\Infra\bin\Debug\netcoreapp2.2\Applicationcore.dll
+C:\Desenvolvimento\MGN\Infra\bin\Debug\netcoreapp2.2\Applicationcore.pdb
+C:\Desenvolvimento\MGN\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Desenvolvimento\MGN\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\MGN\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Desenvolvimento\MGN\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Desenvolvimento\MGN\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Desenvolvimento\MGN\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Desenvolvimento\MGN\Infra\obj\Debug\netcoreapp2.2\Infra.pdb

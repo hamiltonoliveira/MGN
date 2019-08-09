@@ -1,0 +1,70 @@
+﻿@model Applicationcore.Entities.Adress
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h4>Inserir - Endereço</h4>
+
+<div>
+    <a asp-action="Index">Painel</a>
+</div>
+
+<hr />
+<div class="row">
+    <div class="col-10">
+        <form asp-controller="Adress">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                @{
+                    Dictionary<int, string> lista = (Dictionary<int, string>)ViewBag.client;
+                }
+                <select name="ClientId" id="ClientId" class="form-control">
+                    @foreach (var item in lista)
+                    {
+                        <option value=@item.Key> @item.Value</option>
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="street" class="control-label"></label>
+                <input asp-for="street" class="form-control" />
+                <span asp-validation-for="street" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="number" class="control-label"></label>
+                <input asp-for="number" class="form-control" />
+                <span asp-validation-for="number" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="complement" class="control-label"></label>
+                <input asp-for="complement" class="form-control" />
+                <span asp-validation-for="complement" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="neightborhood" class="control-label"></label>
+                <input asp-for="neightborhood" class="form-control" />
+                <span asp-validation-for="neightborhood" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="city" class="control-label"></label>
+                <input asp-for="city" class="form-control" />
+                <span asp-validation-for="city" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="state" class="control-label"></label>
+                <input asp-for="state" class="form-control" />
+                <span asp-validation-for="state" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Inserir" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

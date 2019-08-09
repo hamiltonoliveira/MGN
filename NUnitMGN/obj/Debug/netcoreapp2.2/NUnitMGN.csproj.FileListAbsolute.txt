@@ -1,0 +1,17 @@
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\NUnitMGN.deps.json
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\NUnitMGN.runtimeconfig.json
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\NUnitMGN.runtimeconfig.dev.json
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\NUnitMGN.dll
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\NUnitMGN.pdb
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\Applicationcore.dll
+C:\Desenvolvimento\MGN\NUnitMGN\bin\Debug\netcoreapp2.2\Applicationcore.pdb
+C:\Desenvolvimento\MGN\NUnitMGN\obj\Debug\netcoreapp2.2\NUnitMGN.csprojAssemblyReference.cache
+C:\Desenvolvimento\MGN\NUnitMGN\obj\Debug\netcoreapp2.2\NUnitMGN.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\MGN\NUnitMGN\obj\Debug\netcoreapp2.2\NUnitMGN.AssemblyInfoInputs.cache
+C:\Desenvolvimento\MGN\NUnitMGN\obj\Debug\netcoreapp2.2\NUnitMGN.AssemblyInfo.cs
+C:\Desenvolvimento\MGN\NUnitMGN\obj\Debug\netcoreapp2.2\NUnitMGN.csproj.CopyComplete
+C:\Desenvolvimento\MGN\NUnitMGN\obj\Debug\netcoreapp2.2\NUnitMGN.dll
+C:\Desenvolvimento\MGN\NUnitMGN\obj\Debug\netcoreapp2.2\NUnitMGN.pdb

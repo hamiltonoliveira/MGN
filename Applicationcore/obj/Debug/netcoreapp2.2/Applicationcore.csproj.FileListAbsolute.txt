@@ -1,0 +1,11 @@
+C:\Desenvolvimento\MGN\Applicationcore\bin\Debug\netcoreapp2.2\Applicationcore.deps.json
+C:\Desenvolvimento\MGN\Applicationcore\bin\Debug\netcoreapp2.2\Applicationcore.runtimeconfig.json
+C:\Desenvolvimento\MGN\Applicationcore\bin\Debug\netcoreapp2.2\Applicationcore.runtimeconfig.dev.json
+C:\Desenvolvimento\MGN\Applicationcore\bin\Debug\netcoreapp2.2\Applicationcore.dll
+C:\Desenvolvimento\MGN\Applicationcore\bin\Debug\netcoreapp2.2\Applicationcore.pdb
+C:\Desenvolvimento\MGN\Applicationcore\obj\Debug\netcoreapp2.2\Applicationcore.csprojAssemblyReference.cache
+C:\Desenvolvimento\MGN\Applicationcore\obj\Debug\netcoreapp2.2\Applicationcore.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\MGN\Applicationcore\obj\Debug\netcoreapp2.2\Applicationcore.AssemblyInfoInputs.cache
+C:\Desenvolvimento\MGN\Applicationcore\obj\Debug\netcoreapp2.2\Applicationcore.AssemblyInfo.cs
+C:\Desenvolvimento\MGN\Applicationcore\obj\Debug\netcoreapp2.2\Applicationcore.dll
+C:\Desenvolvimento\MGN\Applicationcore\obj\Debug\netcoreapp2.2\Applicationcore.pdb
